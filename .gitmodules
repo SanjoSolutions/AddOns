@@ -1,0 +1,69 @@
+[submodule "Array"]
+	path = Array
+	url = git@github.com:SanjoSolutions/LuaArray.git
+[submodule "Object"]
+	path = Object
+	url = git@github.com:SanjoSolutions/LuaObject.git
+[submodule "Set"]
+	path = Set
+	url = git@github.com:SanjoSolutions/LuaSet.git
+[submodule "Math"]
+	path = Math
+	url = git@github.com:SanjoSolutions/LuaMath.git
+[submodule "Events"]
+	path = Events
+	url = git@github.com:SanjoSolutions/LuaEvents.git
+[submodule "Coroutine"]
+	path = Coroutine
+	url = git@github.com:SanjoSolutions/LuaCoroutine.git
+[submodule "Function"]
+	path = Function
+	url = git@github.com:SanjoSolutions/LuaFunction.git
+[submodule "Boolean"]
+	path = Boolean
+	url = git@github.com:SanjoSolutions/LuaBoolean.git
+[submodule "Tooltips"]
+	path = Tooltips
+	url = git@github.com:SanjoSolutions/Tooltips.git
+[submodule "String"]
+	path = String
+	url = git@github.com:SanjoSolutions/LuaString.git
+[submodule "Float"]
+	path = Float
+	url = git@github.com:SanjoSolutions/LuaFloat.git
+[submodule "CommunityFeastHandler"]
+	path = CommunityFeastHandler
+	url = git@github.com:SanjoSolutions/CommunityFeastHandler.git
+[submodule "Bags"]
+	path = Bags
+	url = git@github.com:SanjoSolutions/Bags.git
+[submodule "Caching"]
+	path = Caching
+	url = git@github.com:SanjoSolutions/LuaCaching.git
+[submodule "Conditionals"]
+	path = Conditionals
+	url = git@github.com:SanjoSolutions/LuaConditionals.git
+[submodule "Hook"]
+	path = Hook
+	url = git@github.com:SanjoSolutions/LuaHook.git
+[submodule "Hooking"]
+	path = Hooking
+	url = git@github.com:SanjoSolutions/LuaHooking.git
+[submodule "Resolvable"]
+	path = Resolvable
+	url = git@github.com:SanjoSolutions/LuaResolvable.git
+[submodule "Scheduling"]
+	path = Scheduling
+	url = git@github.com:SanjoSolutions/LuaScheduling.git
+[submodule "Serialization"]
+	path = Serialization
+	url = git@github.com:SanjoSolutions/LuaSerialization.git
+[submodule "Stoppable"]
+	path = Stoppable
+	url = git@github.com:SanjoSolutions/LuaStoppable.git
+[submodule "Yielder"]
+	path = Yielder
+	url = git@github.com:SanjoSolutions/LuaYielder.git
+[submodule "Compatibility"]
+	path = Compatibility
+	url = git@github.com:SanjoSolutions/Compatibility.git
