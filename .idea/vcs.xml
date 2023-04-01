@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bags" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Boolean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Caching" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CommunityFeastHandler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compatibility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Conditionals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coroutine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Events" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Float" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hooking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Math" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mathematics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Object" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Resolvable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scheduling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Serialization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Set" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpellCasting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stoppable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/String" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tooltips" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Yielder" vcs="Git" />
+  </component>
+</project>

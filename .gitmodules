@@ -7,9 +7,9 @@
 [submodule "Set"]
 	path = Set
 	url = git@github.com:SanjoSolutions/LuaSet.git
-[submodule "Math"]
-	path = Math
-	url = git@github.com:SanjoSolutions/LuaMath.git
+[submodule "Mathematics"]
+	path = Mathematics
+	url = git@github.com:SanjoSolutions/LuaMathematics.git
 [submodule "Events"]
 	path = Events
 	url = git@github.com:SanjoSolutions/LuaEvents.git
