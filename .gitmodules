@@ -67,3 +67,6 @@
 [submodule "Compatibility"]
 	path = Compatibility
 	url = git@github.com:SanjoSolutions/Compatibility.git
+[submodule "Library"]
+	path = Library
+	url = git@github.com:SanjoSolutions/LuaLibrary.git

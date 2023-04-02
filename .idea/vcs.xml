@@ -15,14 +15,14 @@
     <mapping directory="$PROJECT_DIR$/Function" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hook" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hooking" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Math" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lua" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Mathematics" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Object" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Resolvable" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Scheduling" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Serialization" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Set" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SpellCasting" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Stoppable" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/String" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Tooltips" vcs="Git" />
