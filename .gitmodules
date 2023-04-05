@@ -1,72 +1,81 @@
 [submodule "Array"]
-	path = Array
+	path = AddOns/Array
 	url = git@github.com:SanjoSolutions/LuaArray.git
 [submodule "Object"]
-	path = Object
+	path = AddOns/Object
 	url = git@github.com:SanjoSolutions/LuaObject.git
 [submodule "Set"]
-	path = Set
+	path = AddOns/Set
 	url = git@github.com:SanjoSolutions/LuaSet.git
 [submodule "Mathematics"]
-	path = Mathematics
+	path = AddOns/Mathematics
 	url = git@github.com:SanjoSolutions/LuaMathematics.git
 [submodule "Events"]
-	path = Events
+	path = AddOns/Events
 	url = git@github.com:SanjoSolutions/LuaEvents.git
 [submodule "Coroutine"]
-	path = Coroutine
+	path = AddOns/Coroutine
 	url = git@github.com:SanjoSolutions/LuaCoroutine.git
 [submodule "Function"]
-	path = Function
+	path = AddOns/Function
 	url = git@github.com:SanjoSolutions/LuaFunction.git
 [submodule "Boolean"]
-	path = Boolean
+	path = AddOns/Boolean
 	url = git@github.com:SanjoSolutions/LuaBoolean.git
 [submodule "Tooltips"]
-	path = Tooltips
+	path = AddOns/Tooltips
 	url = git@github.com:SanjoSolutions/Tooltips.git
 [submodule "String"]
-	path = String
+	path = AddOns/String
 	url = git@github.com:SanjoSolutions/LuaString.git
 [submodule "Float"]
-	path = Float
+	path = AddOns/Float
 	url = git@github.com:SanjoSolutions/LuaFloat.git
 [submodule "CommunityFeastHandler"]
-	path = CommunityFeastHandler
+	path = AddOns/CommunityFeastHandler
 	url = git@github.com:SanjoSolutions/CommunityFeastHandler.git
 [submodule "Bags"]
-	path = Bags
+	path = AddOns/Bags
 	url = git@github.com:SanjoSolutions/Bags.git
 [submodule "Caching"]
-	path = Caching
+	path = AddOns/Caching
 	url = git@github.com:SanjoSolutions/LuaCaching.git
 [submodule "Conditionals"]
-	path = Conditionals
+	path = AddOns/Conditionals
 	url = git@github.com:SanjoSolutions/LuaConditionals.git
 [submodule "Hook"]
-	path = Hook
+	path = AddOns/Hook
 	url = git@github.com:SanjoSolutions/LuaHook.git
 [submodule "Hooking"]
-	path = Hooking
+	path = AddOns/Hooking
 	url = git@github.com:SanjoSolutions/LuaHooking.git
 [submodule "Resolvable"]
-	path = Resolvable
+	path = AddOns/Resolvable
 	url = git@github.com:SanjoSolutions/LuaResolvable.git
 [submodule "Scheduling"]
-	path = Scheduling
+	path = AddOns/Scheduling
 	url = git@github.com:SanjoSolutions/LuaScheduling.git
 [submodule "Serialization"]
-	path = Serialization
+	path = AddOns/Serialization
 	url = git@github.com:SanjoSolutions/LuaSerialization.git
 [submodule "Stoppable"]
-	path = Stoppable
+	path = AddOns/Stoppable
 	url = git@github.com:SanjoSolutions/LuaStoppable.git
 [submodule "Yielder"]
-	path = Yielder
+	path = AddOns/Yielder
 	url = git@github.com:SanjoSolutions/LuaYielder.git
 [submodule "Compatibility"]
-	path = Compatibility
+	path = AddOns/Compatibility
 	url = git@github.com:SanjoSolutions/Compatibility.git
 [submodule "Library"]
-	path = Library
+	path = AddOns/Library
 	url = git@github.com:SanjoSolutions/LuaLibrary.git
+[submodule "CommodityBuyerAndSeller"]
+	path = AddOns/CommodityBuyerAndSeller
+	url = git@github.com:SanjoSolutions/CommodityBuyerAndSeller.git
+[submodule "add-on-builder"]
+	path = add-on-builder
+	url = git@github.com:SanjoSolutions/add-on-builder.git
+[submodule "Lua"]
+	path = AddOns/Lua
+	url = git@github.com:SanjoSolutions/LuaLua.git
