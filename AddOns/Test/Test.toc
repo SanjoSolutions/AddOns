@@ -2,7 +2,7 @@
 ## Interface: 100007
 ## Version: 1.0.0
 
-libs/Library/Library.xml
-libs/Boolean/Boolean.xml
+node_modules/Library/Library.xml
+node_modules/Boolean/Boolean.xml
 
 Test.lua
