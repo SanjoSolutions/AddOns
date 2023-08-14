@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "@sanjo-addons/library": "^0.5.0",
-    "@sanjo-addons/boolean": "SanjoSolutions/LuaBoolean",
-    "@sanjo-addons/array": "SanjoSolutions/LuaArray"
+    "@sanjo-addons/boolean": "^2.0.0",
+    "@sanjo-addons/array": "^2.0.1"
   },
   "publishConfig": {
     "access": "public"
