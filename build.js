@@ -12,7 +12,8 @@ const addOnNames = (await readdir(addOnsPath, {withFileTypes: true}))
   .map(entry => entry.name)
 
 const addOnsToBuildWithEmbedding = new Set([
-  'CommoditiesBuyer'
+  'CommoditiesBuyer',
+  'MoneyMakingAssistant'
 ])
 
 for (const addOnName of addOnNames) {
