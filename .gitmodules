@@ -31,9 +31,6 @@
 [submodule "Float"]
 	path = AddOns/Float
 	url = git@github.com:SanjoSolutions/LuaFloat.git
-[submodule "CommunityFeastHandler"]
-	path = AddOns/CommunityFeastHandler
-	url = git@github.com:SanjoSolutions/CommunityFeastHandler.git
 [submodule "Bags"]
 	path = AddOns/Bags
 	url = git@github.com:SanjoSolutions/Bags.git
@@ -70,9 +67,6 @@
 [submodule "Library"]
 	path = AddOns/Library
 	url = git@github.com:SanjoSolutions/LuaLibrary.git
-[submodule "CommodityBuyerAndSeller"]
-	path = AddOns/CommodityBuyerAndSeller
-	url = git@github.com:SanjoSolutions/CommodityBuyerAndSeller.git
 [submodule "add-on-builder"]
 	path = add-on-builder
 	url = git@github.com:SanjoSolutions/add-on-builder.git
