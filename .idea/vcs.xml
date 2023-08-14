@@ -20,6 +20,8 @@
     <mapping directory="$PROJECT_DIR$/AddOns/Library" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Lua" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Mathematics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AddOns/MoneyMakingAssistant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AddOns/MoneyMakingAssistantData" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Object" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Resolvable" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Scheduling" vcs="Git" />
