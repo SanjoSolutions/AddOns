@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/AddOns/Bags" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Boolean" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Caching" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AddOns/CommoditiesBuyer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/CommodityBuyerAndSeller" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/CommunityFeastHandler" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Compatibility" vcs="Git" />
@@ -28,31 +29,6 @@
     <mapping directory="$PROJECT_DIR$/AddOns/String" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Tooltips" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AddOns/Yielder" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Array" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Bags" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Boolean" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Caching" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CommunityFeastHandler" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Compatibility" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Conditionals" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Coroutine" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Events" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Float" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Function" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Hook" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Hooking" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Library" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Lua" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Mathematics" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Object" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Resolvable" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Scheduling" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Serialization" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Set" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Stoppable" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/String" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Tooltips" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Yielder" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/add-on-builder" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/add-on-builder/unnamed" vcs="Git" />
   </component>

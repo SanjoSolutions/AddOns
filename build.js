@@ -1,4 +1,4 @@
-import { build } from '@sanjo/add-on-builder'
+import { build, buildWithEmbedding } from '@sanjo/add-on-builder'
 import { readdir } from 'fs/promises'
 import { dirname, join } from 'path'
 import { fileURLToPath } from 'url'
@@ -11,7 +11,15 @@ const addOnNames = (await readdir(addOnsPath, {withFileTypes: true}))
   .filter(entry => entry.isDirectory())
   .map(entry => entry.name)
 
+const addOnsToBuildWithEmbedding = new Set([
+  'CommoditiesBuyer'
+])
+
 for (const addOnName of addOnNames) {
   process.chdir(join(addOnsPath, addOnName))
-  await build()
+  if (addOnsToBuildWithEmbedding.has(addOnName)) {
+    await buildWithEmbedding()
+  } else {
+    await build()
+  }
 }
