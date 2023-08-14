@@ -2,6 +2,6 @@
   "name": "Test",
   "dependencies": {
     "Library": "SanjoSolutions/LuaLibrary#v0.4.0",
-    "Function": "SanjoSolutions/LuaBoolean#v1.1.0"
+    "Function": "SanjoSolutions/LuaBoolean#v1.0.0"
   }
 }
