@@ -79,3 +79,9 @@
 [submodule "Lua"]
 	path = AddOns/Lua
 	url = git@github.com:SanjoSolutions/LuaLua.git
+[submodule "AddOns/MoneyMakingAssistant"]
+	path = AddOns/MoneyMakingAssistant
+	url = git@github.com:SanjoSolutions/MoneyMakingAssistant.git
+[submodule "AddOns/MoneyMakingAssistantData"]
+	path = AddOns/MoneyMakingAssistantData
+	url = git@github.com:SanjoSolutions/MoneyMakingAssistantData.git
