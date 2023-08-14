@@ -1,8 +1,8 @@
 {
-  "name": "Test",
+  "name": "@sanjo-addons/test",
   "dependencies": {
-    "Library": "SanjoSolutions/LuaLibrary#v0.4.0",
-    "Boolean": "SanjoSolutions/LuaBoolean",
-    "Array": "SanjoSolutions/LuaArray"
+    "@sanjo-addons/library": "SanjoSolutions/LuaLibrary#v0.4.0",
+    "@sanjo-addons/boolean": "SanjoSolutions/LuaBoolean",
+    "@sanjo-addons/array": "SanjoSolutions/LuaArray"
   }
 }
